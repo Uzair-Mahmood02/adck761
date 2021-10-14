@@ -33,7 +33,7 @@ void draw() {
   } else {
     textSize(25);
     textAlign(CENTER, CENTER);
-    text("Snake Game", width/2, height/2);
+    text("Snake Game\n Controls: W A S D", width/2, height/2);
   }
 }
 
